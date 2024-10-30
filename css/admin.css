@@ -1,0 +1,15 @@
+.wrap h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.wrap p, .wrap ol {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.wrap ol {
+    list-style: decimal inside;
+    margin-left: 20px;
+}

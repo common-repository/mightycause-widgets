@@ -1,0 +1,22 @@
+{
+  "ref": "refs/tags/v1.0.0",
+  "before": "0000000000000000000000000000000000000000",
+  "after": "b1a70bbbcfac53baf7f4b4345e5de8790f3b7abc",
+  "repository": {
+    "id": 12345678,
+    "name": "my-plugin",
+    "full_name": "username/my-plugin",
+    "private": false,
+    "html_url": "https://github.com/username/my-plugin",
+    "default_branch": "main"
+  },
+  "pusher": {
+    "name": "username",
+    "email": "username@example.com"
+  },
+  "sender": {
+    "login": "username",
+    "id": 123456,
+    "html_url": "https://github.com/username"
+  }
+}
